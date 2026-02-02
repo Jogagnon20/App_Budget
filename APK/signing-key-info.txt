@@ -1,9 +1,9 @@
 Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
 
 Key store file: signing.keystore
-Key store password: WkROmo1nTiHi
+Key store password: dBajwsLsUqx7
 Key alias: my-key-alias
-Key password: WkROmo1nTiHi
+Key password: dBajwsLsUqx7
 Signer's full name: Budget Admin
 Signer's organization: Budget Familial
 Signer's organizational unit: Engineering

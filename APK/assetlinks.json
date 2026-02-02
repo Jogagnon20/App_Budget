@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.jogagnon20.twa",
-        "sha256_cert_fingerprints": ["2E:B2:61:13:3B:86:5C:9A:51:77:7F:02:0F:DE:6B:FE:63:6E:E6:C3:03:0B:C5:6A:B5:BD:F5:0F:F9:15:7C:2F"]
+        "sha256_cert_fingerprints": ["AF:0F:FE:EE:4E:19:48:62:8E:51:DF:9A:17:FA:F6:E0:AB:C1:B6:01:23:6A:4C:79:DC:E5:48:15:29:8B:4C:46"]
       }
     }]
