@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jogagnon20.twa",
+        "sha256_cert_fingerprints": ["0C:3C:EF:F8:80:4F:17:2F:86:41:FE:F7:70:38:FC:B5:E2:ED:D7:1F:F1:35:6F:5D:9E:E1:BF:AB:B7:C5:05:38"]
+      }
+    }]
